@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "a540fdb1559fc37ae988dd7424beb248",
-"index.html": "1d81472fec51022205dd841d8a5e8903",
-"/": "1d81472fec51022205dd841d8a5e8903",
-"main.dart.js": "726c462ea6dc6f08712cc97da078c39d",
+"index.html": "c24e3463967200df80844466425919e5",
+"/": "c24e3463967200df80844466425919e5",
+"main.dart.js": "517b1a43985c0f5978313a3ea4175d06",
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -63,7 +63,7 @@ const RESOURCES = {
 "assets/assets/images/back_skills.png": "f563f57cf236ab64ca6f0f46429d7c72",
 "assets/assets/images/back_primary.png": "a576193e909e8d84aefaec6d4ec3e965",
 "assets/assets/images/gold.png": "bd9f3e91ee004c8accf4806951fee889",
-"assets/assets/rules_small.pdf": "3dfdf46472675a4f7babec8fc2b3b86e",
+"assets/assets/rules_small.pdf": "4c5e09601daad06a54d07f33e6388729",
 "assets/assets/ironhelm.psd": "d1fb74339426f1fd6542d39cc700305f",
 "assets/assets/playmat.png": "50632c74ec079b8c9ff766e1491d7e5a",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
