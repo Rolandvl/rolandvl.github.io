@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "a540fdb1559fc37ae988dd7424beb248",
-"index.html": "c24e3463967200df80844466425919e5",
-"/": "c24e3463967200df80844466425919e5",
-"main.dart.js": "517b1a43985c0f5978313a3ea4175d06",
-"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
+"index.html": "0a6b57fffbfdfb2f9572c6f934f00f6e",
+"/": "0a6b57fffbfdfb2f9572c6f934f00f6e",
+"main.dart.js": "2b98004e1cd6737524c2372f2b112f45",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -65,11 +64,7 @@ const RESOURCES = {
 "assets/assets/images/gold.png": "bd9f3e91ee004c8accf4806951fee889",
 "assets/assets/rules_small.pdf": "4c5e09601daad06a54d07f33e6388729",
 "assets/assets/ironhelm.psd": "d1fb74339426f1fd6542d39cc700305f",
-"assets/assets/playmat.png": "50632c74ec079b8c9ff766e1491d7e5a",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/playmat.png": "50632c74ec079b8c9ff766e1491d7e5a"
 };
 
 // The application shell files that are downloaded before a service worker can
